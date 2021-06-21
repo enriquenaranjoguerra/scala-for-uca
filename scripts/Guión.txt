@@ -1,0 +1,14 @@
+- Programación orientada a objetos
+  Definición de clase con atributos y métodos
+  Getter y setter
+  Constructores
+  Objetos (singleton)
+  El método apply
+  Igualdad de objetos
+  Enumerations
+  Definición de herencia
+  Sobrecargar métodos
+
+
+- Programación funcional
+  
