@@ -1,7 +1,7 @@
 - Programación orientada a objetos
-  Definición de clase con atributos y métodos
-  Getter y setter
+*  Definición de clase con atributos y métodos
   Constructores
+  Getter y setter
   Objetos (singleton)
   El método apply
   Igualdad de objetos
