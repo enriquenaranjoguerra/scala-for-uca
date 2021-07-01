@@ -11,4 +11,8 @@
 
 
 - Programación funcional
-  
+* Definición del paradigma
+* Funciones como valores
+* Funciones anónimas
+* Funciones como parámetros de otras funciones
+* Map, filter, foreach
